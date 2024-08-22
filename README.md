@@ -1,4 +1,4 @@
-##CODTECH-Task2: Student Grade Management Program
+**CODTECH-Task2:** Student Grade Management Program
 
 **Name:** Jaya Pranay Guduru | **Company:** CODTECH IT SOLUTIONS | **ID:** CT08DS5510 | **Domain:** Java Programming | **Duration:** August to September 2024 | **Mentor:** Muzammil Ahmed
 
